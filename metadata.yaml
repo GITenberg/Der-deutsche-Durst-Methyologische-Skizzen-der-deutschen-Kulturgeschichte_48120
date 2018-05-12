@@ -1,10 +1,16 @@
 _repo: Der-deutsche-Durst-Methyologische-Skizzen-der-deutschen-Kulturgeschichte_48120
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48120-h/images/cover.jpg
 creator:
   author:
     agent_name: Bauer, Max
     gutenberg_agent_id: '44629'
     url: http://www.gutenberg.org/2009/agents/44629
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48120#Der-deutsche-Durst-Methyologische-Skizzen-der-deutschen-Kulturgeschichte
 gutenberg_issued: '2015-01-31'
 gutenberg_type: Text
 identifiers:
